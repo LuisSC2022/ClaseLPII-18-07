@@ -1,4 +1,4 @@
-
+# modificacion por luis
 # Distribuciones Continuas ------------------------------------------------
 
 
