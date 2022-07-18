@@ -1,7 +1,7 @@
 
 # Distribuciones Discreta ------------------------------------------------
 
-
+# Modificación Leslie
 # Distribución Binomial ---------------------------------------------------
 
 # Ejemplo 1: La probabilidad de que cierto componente resista una prueba de impacto
