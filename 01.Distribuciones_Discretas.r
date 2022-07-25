@@ -1,6 +1,6 @@
 
 # Distribuciones Discreta ------------------------------------------------
-
+#Modificando otro repositorio para hacer un merge con Luis S
 # Modificación Leslie
 # Distribución Binomial ---------------------------------------------------
 
